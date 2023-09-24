@@ -4,9 +4,7 @@
 
 [def]: https://www.linkedin.com/in/juliocesar-devop/
 
-![Julio Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno)](https://github.com/anuraghazra/github-readme-stats)
+![Julio Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu estudo
