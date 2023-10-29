@@ -37,7 +37,8 @@
 <br>
 <div align="center>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno)]
+  
  <img src="https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark" />
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno)]
 
