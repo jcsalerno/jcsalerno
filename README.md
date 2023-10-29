@@ -10,7 +10,11 @@
 
 ## Tecnologias que eu estudo
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,c,aws,cpp,css,github,html,js,laravel,linux,nodejs,php,postman,py,react,vscode,wordpress,go&perline=3)](https://skillicons.dev)
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,c,aws,cpp,css,github,html,js,laravel,linux,nodejs,php,postman,py,react,vscode,wordpress,go" />
+  </a>
+</p>
 
 
 Sou apaixonado por tecnologia, aprender e café! 
