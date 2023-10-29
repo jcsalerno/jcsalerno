@@ -36,8 +36,7 @@
 <h3 align="center">⚡ Status ⚡</h2>
 <br>
 <div align="center>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno&layout=compact" />
- <br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno" />
  <img src="https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark" />
 </div>
 
