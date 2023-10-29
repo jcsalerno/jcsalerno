@@ -18,7 +18,9 @@
   <a href="https://www.linkedin.com/in/juliocesar-devop/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  </div>
 <br/>
+
 ![Julio Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark)
 
 
