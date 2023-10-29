@@ -11,10 +11,13 @@
  <br/>
 
  <div align="center">
-  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][def]
+  <a href=""mailto:contato.jcsalerno@gamil.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
 
-[def]: https://www.linkedin.com/in/juliocesar-devop/
+  <a href="https://www.linkedin.com/in/juliocesar-devop/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 
 ![Julio Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark)
 
