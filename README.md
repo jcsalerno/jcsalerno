@@ -22,7 +22,7 @@
 <br/>
 <hr/>
 
-<h3 align="center" style="color: #209652FF;"> ⚒️ Tecnologias e Linguagens que eu estudo ⚒️</h3>
+<h3 align="center"> ⚒️ Tecnologias e Linguagens que eu estudo ⚒️</h3>
 <br/>
  <p align="center">
   <a href="https://skillicons.dev">
@@ -30,6 +30,6 @@
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,c,aws,cpp,css,github,html,js,laravel,linux" />
   </a>
 </p>
-
+<br/>
 
 ![Julio Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark)
