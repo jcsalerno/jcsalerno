@@ -22,16 +22,14 @@
 <br/>
 <hr/>
 
-![Julio Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark)
-
-
 <h2 style="text-align: center;">⚒️ Tecnologias e Linguagens que eu estudo ⚒️</h2>
-
+<br/>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,c,aws,cpp,css,github,html,js,laravel,linux,nodejs,php,postman,py,react,vscode,wordpress,go" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,postman,py,react,vscode,wordpress,go" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,c,aws,cpp,css,github,html,js,laravel,linux" />
   </a>
 </p>
 
 
-Sou apaixonado por tecnologia, aprender e café! 
+![Julio Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark)
