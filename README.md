@@ -36,6 +36,8 @@
 <h3 align="center> Status</h2>
 <br>
 <div align="center>
-<img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=jcsalerno&theme=dark)](https://git.io/streak-stats)" />
+<img src="https://streak-stats.demolab.com/?user=jcsalerno&theme=dark)](https://git.io/streak-stats" />
 
-![Julio Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark)
+<img src"https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark" />
+
+</div>
