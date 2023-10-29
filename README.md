@@ -36,7 +36,7 @@
 <h3 align="center">⚡ Status ⚡</h2>
 <br>
 <div align="center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno)](https://github.com/jcsalerno/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark" />
 
