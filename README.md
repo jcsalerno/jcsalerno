@@ -33,7 +33,7 @@
 <br/>
 <hr/>
 
-<h3 align="center> Status</h2>
+<h3 align="center">⚡ Status ⚡</h2>
 <br>
 <div align="center>
 <img src="https://streak-stats.demolab.com/?user=jcsalerno&theme=dark)](https://git.io/streak-stats" />
