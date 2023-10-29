@@ -40,6 +40,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno" />
  </p>
 <br/>
+<hr/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=209652&center=true&vCenter=true&random=false&width=435&lines=Obrigado+pela+visita+%F0%9F%A4%99;Me+envie+uma+mensagem+no+LinkedIn" alt="Typing SVG" /></a>
  
 
 
