@@ -22,7 +22,7 @@
 <br/>
 <hr/>
 
-<h2 align="center" style="color: #209652FF;"> ⚒️ Tecnologias e Linguagens que eu estudo ⚒️</h2>
+<h3 align="center" style="color: #209652FF;"> ⚒️ Tecnologias e Linguagens que eu estudo ⚒️</h3>
 <br/>
  <p align="center">
   <a href="https://skillicons.dev">
