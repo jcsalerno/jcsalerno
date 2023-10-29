@@ -38,6 +38,6 @@
 <div align="center>
 <img src="https://streak-stats.demolab.com/?user=jcsalerno&theme=dark)](https://git.io/streak-stats" />
 
-<img src"https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark" />
 
 </div>
