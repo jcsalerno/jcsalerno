@@ -8,7 +8,7 @@
 ![Julio Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark)
 
 
-## Tecnologias que eu estudo
+<h2 style="text-align: center;">⚒️ Tecnologias e Linguagens que eu estudo ⚒️</h2>
 
  <p align="center">
   <a href="https://skillicons.dev">
