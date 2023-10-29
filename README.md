@@ -4,7 +4,7 @@
 
 [def]: https://www.linkedin.com/in/juliocesar-devop/
 
-![Julio Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,c,aws,cpp,css,github,html,js,laravel,linux,nodejs,php,postman,py,react,vscode,wordpress,go&perline=3)](https://skillicons.dev)
 
 
 ## Tecnologias que eu estudo
