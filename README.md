@@ -6,7 +6,10 @@
  </a>
  </h2>
 
-<h3 align="center" style="color: #209652FF;">Um desenvolvedor Full Stack</h3>
+<h3 align="center">
+  <font color="#209652">Um desenvolvedor Full Stack</font>
+</h3>
+
 
 
  <br/>
