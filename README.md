@@ -26,8 +26,8 @@
 <br/>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,postman,py,react,vscode,wordpress,go" />
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,c,aws,cpp,css,github,html,js,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,postman,py,react,vscode,wordpress,go" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,c,aws,cpp,css,github,html,java,linux" />
   </a>
 </p>
 <br/>
