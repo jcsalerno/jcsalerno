@@ -26,7 +26,7 @@
 <br/>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,kubernetes,spring" />
+    <img src="https://skillicons.dev/icons?i=js,kubernetes,spring,idea" />
     <img src="https://skillicons.dev/icons?i=linux,docker,java,postman,aws" />
   </a>
 </p>
