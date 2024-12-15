@@ -22,11 +22,11 @@
 <br/>
 <hr/>
 
-<h3 align="center"> ⚒️ Tecnologias e Linguagens que eu estudo ⚒️</h3>
+<h3 align="center"> ⚒️ Tecnologias e Linguagens ⚒️</h3>
 <br/>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,kubernetes,spring,idea" />
+    <img src="https://skillicons.dev/icons?i=js,spring,kubernetes,idea" />
      <br>
     <img src="https://skillicons.dev/icons?i=linux,docker,java,postman,aws" />
   </a>
