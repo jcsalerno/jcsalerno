@@ -13,7 +13,7 @@
 
  <h3 align="center"> Site 🌐 </h3>
  <div align="center">
-  <a href="https://jcsalerno.com.br/">
+  <a href="https://jcsalerno.com.br/" target="_blank">
    <img src="https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Furl%3Dhttp%253A%2F%2Fhttps%3A%2F%2Fjcsalerno.com.br%2F" target="_blank" />
   </a>
      
