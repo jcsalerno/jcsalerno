@@ -10,12 +10,13 @@
 
  <br/>
 
- <hr/>
+
  <h3 align="center"> Site 🌐 </h3>
  <div align="center">
-     <a href="https://www.linkedin.com/in/juliocesar-developer/" >
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://jcsalerno.com.br/">
+   <img src="https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Furl%3Dhttp%253A%2F%2Fhttps%3A%2F%2Fjcsalerno.com.br%2F" target="_blank" />
   </a>
+     
  </div>
 
   <hr/>
@@ -25,10 +26,12 @@
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 
-
-  <a href="https://jcsalerno.com.br/">
-   <img src="https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Furl%3Dhttp%253A%2F%2Fhttps%3A%2F%2Fjcsalerno.com.br%2F" target="_blank" />
+  <a href="https://www.linkedin.com/in/juliocesar-developer/" >
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+
+
+ 
   
   </div>
 <br/>
