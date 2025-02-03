@@ -23,7 +23,7 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissi
 - **Comunicação e Documentação de Processos**
 
 
-<h3> ⚒️ Tecnologias e Linguagens ⚒️</h3>
+<h3> ⚒ Tecnologias e Linguagens </h3>
 <br/>
  <p >
   <a href="https://skillicons.dev">
