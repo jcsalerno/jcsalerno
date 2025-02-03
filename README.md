@@ -1,8 +1,4 @@
-<h2>
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=209652&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Julio+Cesar!+%F0%9F%96%96;Eu+sou+Analista+de+Suporte;Eu+sou+Desenvolvedor+Back-end+Java" />
- </a>
- </h2>
+## Olá, eu sou o Julio Cesar! 👋
 
 Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissional focado em soluções técnicas e resolução de problemas. Tenho me aprofundado no desenvolvimento  **back-end**, onde tenho me especializado em **Java** e no framework **Spring Boot**.
 
@@ -51,18 +47,14 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissi
 <hr/>
 
 
-<h3>Status:</h3>
+### Status
 <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno" />
 <br/>
 <hr/>
 
-<h3>
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=209652&center=true&vCenter=true&random=false&width=435&lines=Obrigado+pela+visita+%F0%9F%A4%99;Me+envie+uma+mensagem+no+LinkedIn" alt="Typing SVG" />
-  </a> 
-</h3>
-<br/>
+---
  
-
+Sinta-se à vontade para me enviar uma mensagem ou conectar-se no LinkedIn! 
+Vamos conversar sobre tecnologia, desenvolvimento ou qualquer outro assunto que você goste! 😄
 
