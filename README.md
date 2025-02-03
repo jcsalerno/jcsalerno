@@ -57,7 +57,7 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissi
 <hr/>
 
 
-<h3 align="center">⚡ Status ⚡</h2>
+<h3 >⚡ Status ⚡</h3>
 <br>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark" />
