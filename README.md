@@ -22,8 +22,7 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissi
 - **Linux**
 - **Postman**
 - **IntelliJ IDEA**
-   
-<br/>
+  
 <hr/>
 
 ### Links importantes:
