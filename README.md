@@ -22,16 +22,17 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissi
 - **Redes**
 - **Comunicação e Documentação de Processos**
 
+ ### Ferramentas e Tecnologias:
 
-<h3>Tecnologias e Linguagens: </h3>
-<br/>
- <p >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,spring,kubernetes,idea,linux,docker,java,postman,aws" />
+- Java
+- Spring Boot
+- Docker
+- Kubernetes
+- AWS
+- Linux
+- Postman
+- IntelliJ IDEA
    
- 
-  </a>
-</p>
 <br/>
 <hr/>
 
