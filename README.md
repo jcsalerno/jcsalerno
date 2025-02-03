@@ -54,7 +54,7 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissi
 <h3>Status:</h3>
 <br>
  <p>
- <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno)" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno" />
  </p>
 <br/>
 <hr/>
