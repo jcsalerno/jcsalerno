@@ -38,9 +38,20 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissi
 
 ### Links importantes:
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Furl%3Dhttp%253A%2F%2Fhttps%3A%2F%2Fjcsalerno.com.br%2F)](https://jcsalerno.com.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliocesar-developer/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.jcsalerno@gmail.com)
+<a href="https://jcsalerno.com.br/" target="_blank">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Furl%3Dhttp%253A%2F%2Fhttps%3A%2F%2Fjcsalerno.com.br%2F" />
+</a>
+<br>
+
+<a href="https://www.linkedin.com/in/juliocesar-developer/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br>
+
+<a href="mailto:contato.jcsalerno@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 
 <hr/>
