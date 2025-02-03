@@ -6,12 +6,6 @@
 
 Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissional focado em soluções técnicas e resolução de problemas. Tenho me aprofundado no desenvolvimento  **back-end**, onde tenho me especializado em **Java** e no framework **Spring Boot**.
 
-### O que faço:
-
-- **Desenvolvimento Back-end Java:** Construção de soluções escaláveis e eficientes.
-- **Suporte Técnico:** Garantindo a satisfação do cliente e a continuidade dos serviços.
-- **Resolução de Problemas:** Sempre buscando a melhor solução para os desafios técnicos.
-
 ### Habilidades:
 
 - **Sistemas Operacionais**
@@ -57,10 +51,9 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissi
 <hr/>
 
 
-<h3 >⚡ Status ⚡</h3>
+<h >Status </h3>
 <br>
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcsalerno&show_icons=true&theme=dark" />
+ <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno" />
  </p>
 <br/>
