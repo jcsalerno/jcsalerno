@@ -24,14 +24,14 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissi
 
  ### Ferramentas e Tecnologias:
 
-- Java
-- Spring Boot
-- Docker
-- Kubernetes
-- AWS
-- Linux
-- Postman
-- IntelliJ IDEA
+- **Java**
+- **Spring Boot**
+- **Docker**
+- **Kubernetes**
+- **AWS**
+- **Linux**
+- **Postman**
+- **IntelliJ IDEA**
    
 <br/>
 <hr/>
