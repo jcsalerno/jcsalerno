@@ -4,7 +4,23 @@
  </a>
  </h2>
 
-<h3 align="center">Um desenvolvedor Back-end Java</h3>
+Com mais de 4 anos de experiência como **Analista de Suporte**, sou apaixonado por tecnologia e resolução de problemas. Minha jornada como desenvolvedor me trouxe ao mundo do **back-end**, onde tenho me especializado em **Java** e diversas outras tecnologias.
+
+### O que faço:
+
+- **Desenvolvimento Back-end Java:** Construção de soluções escaláveis e eficientes.
+- **Suporte Técnico:** Garantindo a satisfação do cliente e a continuidade dos serviços.
+- **Resolução de Problemas:** Sempre buscando a melhor solução para os desafios técnicos.
+
+### Habilidades:
+
+- **Sistemas Operacionais**
+- **Resolução de Problemas Técnicos**
+- **Linguagens de Programação**
+- **APIs**
+- **Banco de Dados**
+- **Redes**
+- **Comunicação e Documentação de Processos**
 
  <h3 align="center"> Site 🌐 </h3>
  <div align="center">
