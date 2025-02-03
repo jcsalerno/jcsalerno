@@ -4,7 +4,7 @@
  </a>
  </h2>
 
-Com mais de 4 anos de experiência como **Analista de Suporte**, sou apaixonado por tecnologia e resolução de problemas. Minha jornada como desenvolvedor me trouxe ao mundo do **back-end**, onde tenho me especializado em **Java**.
+Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissional focado em soluções técnicas e resolução de problemas. Tenho me aprofundado no desenvolvimento  **back-end**, onde tenho me especializado em **Java**.
 
 ### O que faço:
 
