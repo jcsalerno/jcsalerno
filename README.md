@@ -4,7 +4,7 @@
  </a>
  </h2>
 
-Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissional focado em soluções técnicas e resolução de problemas. Tenho me aprofundado no desenvolvimento  **back-end**, onde tenho me especializado em **Java**.
+Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissional focado em soluções técnicas e resolução de problemas. Tenho me aprofundado no desenvolvimento  **back-end**, onde tenho me especializado em **Java** e no framework **Spring Boot**.
 
 ### O que faço:
 
@@ -23,9 +23,9 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissi
 - **Comunicação e Documentação de Processos**
 
 
-<h3 align="center"> ⚒️ Tecnologias e Linguagens ⚒️</h3>
+<h3> ⚒️ Tecnologias e Linguagens ⚒️</h3>
 <br/>
- <p align="center">
+ <p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,spring,kubernetes,idea" />
      <br>
