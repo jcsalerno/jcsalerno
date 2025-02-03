@@ -42,19 +42,15 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissi
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
-
 <hr/>
 
-
-### Status
+### Status:
 <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno" />
 <br/>
 <hr/>
 
----
  
-Sinta-se à vontade para me enviar uma mensagem ou conectar-se no LinkedIn! 
-Vamos conversar sobre tecnologia, desenvolvimento ou qualquer outro assunto que você goste! 😄
+<p>Sinta-se à vontade para me enviar uma mensagem ou conectar-se no LinkedIn! </p>
+<p>Vamos conversar sobre tecnologia, desenvolvimento ou qualquer outro assunto que você goste! 😄</p>
 
