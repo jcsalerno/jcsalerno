@@ -4,7 +4,7 @@
  </a>
  </h2>
 
-Com mais de 4 anos de experiência como **Analista de Suporte**, sou apaixonado por tecnologia e resolução de problemas. Minha jornada como desenvolvedor me trouxe ao mundo do **back-end**, onde tenho me especializado em **Java** e diversas outras tecnologias.
+Com mais de 4 anos de experiência como **Analista de Suporte**, sou apaixonado por tecnologia e resolução de problemas. Minha jornada como desenvolvedor me trouxe ao mundo do **back-end**, onde tenho me especializado em **Java**.
 
 ### O que faço:
 
@@ -21,6 +21,19 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou apaixonado 
 - **Banco de Dados**
 - **Redes**
 - **Comunicação e Documentação de Processos**
+
+
+<h3 align="center"> ⚒️ Tecnologias e Linguagens ⚒️</h3>
+<br/>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,spring,kubernetes,idea" />
+     <br>
+    <img src="https://skillicons.dev/icons?i=linux,docker,java,postman,aws" />
+  </a>
+</p>
+<br/>
+<hr/>
 
  <h3 align="center"> Site 🌐 </h3>
  <div align="center">
@@ -48,17 +61,6 @@ Com mais de 4 anos de experiência como **Analista de Suporte**, sou apaixonado 
 <br/>
 <hr/>
 
-<h3 align="center"> ⚒️ Tecnologias e Linguagens ⚒️</h3>
-<br/>
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,spring,kubernetes,idea" />
-     <br>
-    <img src="https://skillicons.dev/icons?i=linux,docker,java,postman,aws" />
-  </a>
-</p>
-<br/>
-<hr/>
 
 <h3 align="center">⚡ Status ⚡</h2>
 <br>
