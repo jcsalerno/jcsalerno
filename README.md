@@ -4,9 +4,9 @@ With over 4 years of experience as a Support Analyst, I am a tech-driven profess
 
 ## 🚀 About Me
 - 🌱 Currently pursuing a Postgraduate degree in **Java Architecture and Development** at FIAP
+- 🎓 Postgraduate in Full Stack Development from Descomplica
 - 💡 Interested in **Microservices, Cloud Computing, and Scalable Solutions**
 - 🏗️ Building projects that combine **clean architecture and efficient back-end solutions**
-- 🎯 Seeking new opportunities to transition into a **Junior Java Developer** role
 
 ## 🛠️ Skills & Expertise
 - **Operating Systems** (Linux, Windows)
@@ -35,7 +35,6 @@ With over 4 years of experience as a Support Analyst, I am a tech-driven profess
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno&langs_count=5" />
 <hr/>
 
----
 
 Let's build something great together! 🚀
 
