@@ -13,7 +13,7 @@ With over 4 years of experience as a Support Analyst, I am a tech-driven profess
 - **Problem Solving & Troubleshooting**
 - **Programming Languages** (Java, JavaScript, Python basics)
 - **API Development** (RESTful APIs, Swagger, Postman)
-- **Databases** (PostgreSQL, MySQL, H2)
+- **Databases** (PostgreSQL, MySQL, MongoDB, H2)
 - **Networking** (Basic network administration, troubleshooting)
 - **Communication & Documentation** (Technical Writing, Team Collaboration)
 
