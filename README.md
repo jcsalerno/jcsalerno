@@ -34,7 +34,7 @@ With over 4 years of experience as a Support Analyst, I am a tech-driven profess
 <hr/>
  
 
-🔥 "Turning ideas into scalable and efficient solutions with a focus on modern back-end infrastructure and microservices architecture."
+🔥 Turning ideas into scalable and efficient solutions with a focus on modern back-end infrastructure and microservices architecture.
 
 
 
