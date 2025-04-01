@@ -1,53 +1,41 @@
-## Olá, eu sou o Julio Cesar! 👋
+# Hi there! I'm Julio Cesar 👋
 
-Com mais de 4 anos de experiência como **Analista de Suporte**, sou um profissional focado em soluções técnicas e resolução de problemas. Tenho me aprofundado no desenvolvimento  **back-end**, onde tenho me especializado em **Java** e no framework **Spring Boot**.
+With over 4 years of experience as a Support Analyst, I am a tech-driven professional passionate about problem-solving and technical solutions. Recently, I have been deepening my knowledge in back-end development, specializing in Java and the Spring Boot framework.
 
-### Habilidades:
+## 🚀 About Me
+- 🌱 Currently pursuing a Postgraduate degree in **Java Architecture and Development** at FIAP
+- 💡 Interested in **Microservices, Cloud Computing, and Scalable Solutions**
+- 🏗️ Building projects that combine **clean architecture and efficient back-end solutions**
+- 🎯 Seeking new opportunities to transition into a **Junior Java Developer** role
 
-- **Sistemas Operacionais**
-- **Resolução de Problemas Técnicos**
-- **Linguagens de Programação**
-- **APIs**
-- **Banco de Dados**
-- **Redes**
-- **Comunicação e Documentação de Processos**
+## 🛠️ Skills & Expertise
+- **Operating Systems** (Linux, Windows)
+- **Problem Solving & Troubleshooting**
+- **Programming Languages** (Java, JavaScript, Python basics)
+- **API Development** (RESTful APIs, Swagger, Postman)
+- **Databases** (PostgreSQL, MySQL, H2)
+- **Networking** (Basic network administration, troubleshooting)
+- **Communication & Documentation** (Technical Writing, Team Collaboration)
 
- ### Ferramentas e Tecnologias:
+## ⚙️ Tools & Technologies
+- **Back-end**: Java, Spring Boot, Hibernate, JPA
+- **Cloud & DevOps**: Docker, Kubernetes, AWS (EC2, S3, RDS)
+- **Testing**: JUnit, Mockito
+- **Version Control**: Git, GitHub
+- **Development Tools**: IntelliJ IDEA, Postman, Maven
 
-- **Java**
-- **Spring Boot**
-- **Docker**
-- **Kubernetes**
-- **AWS**
-- **Linux**
-- **Postman**
-- **IntelliJ IDEA**
-  
-<hr/>
+## 📈 Stats & Projects
+📌 Check out my projects on **[GitHub](https://github.com/jcsalerno)**
 
-### Links importantes:
+💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/juliocesar-developer)**
 
-<a href="https://jcsalerno.com.br/" target="_blank">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Furl%3Dhttp%253A%2F%2Fhttps%3A%2F%2Fjcsalerno.com.br%2F" />
-</a>
-<br> <br>
+🔥 "Turning ideas into scalable and efficient solutions with a focus on modern back-end infrastructure and microservices architecture."
 
-<a href="https://www.linkedin.com/in/juliocesar-developer/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br> <br>
-
-<a href="mailto:contato.jcsalerno@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<hr/>
-
-### Status:
+## Status:
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno&langs_count=5" />
 <hr/>
 
- 
-<p>Sinta-se à vontade para me enviar uma mensagem ou conectar-se no LinkedIn! </p>
-<p>Vamos conversar sobre tecnologia, desenvolvimento ou qualquer outro assunto que você goste! 😄</p>
+---
+
+Let's build something great together! 🚀
 
