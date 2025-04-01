@@ -25,15 +25,13 @@ With over 4 years of experience as a Support Analyst, I am a tech-driven profess
 - **Development Tools**: IntelliJ IDEA, Postman, Maven
 
 ## 📈 Stats & Projects
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno&langs_count=5" />
 📌 Check out my projects on **[GitHub](https://github.com/jcsalerno)**
 
 💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/juliocesar-developer)**
 
 🔥 "Turning ideas into scalable and efficient solutions with a focus on modern back-end infrastructure and microservices architecture."
 
-## Status:
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsalerno&langs_count=5" />
-<hr/>
 
 
 Let's build something great together! 🚀
