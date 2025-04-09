@@ -1,4 +1,9 @@
-# Hi there! I'm Julio Cesar 👋
+<div align="center">
+ <h1>Hi there! I'm Julio Cesar 👋</h1>
+  <img src="https://github.com/user-attachments/assets/be2d84f3-91ee-4bc4-aa84-80e1eb790c8a" style="width: 320px; height: 320px; object-fit: cover;" />
+</div>
+
+
 
 With over 4 years of experience as a Support Analyst, I am a tech-driven professional passionate about problem-solving and technical solutions. Recently, I have been deepening my knowledge in back-end development, specializing in Java and the Spring Boot framework.
 
