@@ -29,7 +29,7 @@ With over 4 years of experience as a Support Analyst, I am a tech-driven profess
 - **Version Control**: Git, GitHub
 - **Development Tools**: IntelliJ IDEA, Postman, Maven
 
-📌 Check out my projects on **[GitHub](https://github.com/jcsalerno)**
+📌 Check out my blog at **[Blog]([https://www.jcsalerno/](https://www.jcsalerno.com.br/blog/))**
 
 💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/juliocesar-developer)**
 
